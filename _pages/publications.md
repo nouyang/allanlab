@@ -1,7 +1,6 @@
 ---
-title: "Allan Lab - Publications"
+title: "Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+### Group highlights
 
 For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?hl=en&user=todsDfQAAAAJ).
 
@@ -57,7 +56,10 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+  <strong>{{ publi.title }}</strong> <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+<br/>
+<br/>
