@@ -1,5 +1,4 @@
-- name: Milan P Allan
-  photo: Milan.jpg
+- name: Edward H. Adelson 
   photo: bio_photo.jpg
   info: Associate professor, started last century
   email: adelson@ mit dot edu
@@ -57,7 +56,7 @@
   education1: http://wx405557858.github.io/
 
 - name: N. Rui Ouyang 
-  photo: DSC_1032.JPG
+  photo: bio_photo.jpg 
   info: PhD Student, joined January 2020
   email: 
   number_educ: 1
