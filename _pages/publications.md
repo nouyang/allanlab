@@ -60,6 +60,3 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
-<br/>
-<br/>
